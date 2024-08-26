@@ -1,0 +1,21 @@
+ctrl+shift+enter自动在末尾加;
+ctrl+alt+l格式化
+ctrl+alt+m提取方法
+ctrl+shift+enter自动完善代码
+
+
+面板地址:http://8.136.4.21:8888/0c62eb07
+用户名:fz2wrtw8
+密码:e07945d8
+
+172.23.219.152
+
+npm install --unsafe-perm --registry=https://registry.npm.taobao.org
+
+chmod -R 755 ./*
+
+npm run build:prod
+
+netstat -nap|grep 8080
+
+sudo lsof -i:8080查看进程
